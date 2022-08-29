@@ -4,6 +4,7 @@ Backend:- Contains Django source code with react production build in the fronten
 
 Frontend :- Holds the frontend code 
 
+![](./out/mindmap/mindmap.png)
 Steps 
 
 ```

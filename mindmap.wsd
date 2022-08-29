@@ -1,0 +1,27 @@
+@startmindmap
+
+*[#Orange] Website
+**[#Beige] Django
+***[#BurlyWood] baseProject
+****[#DarkKhaki] settings.py
+****[#DarkKhaki] urls.py
+****[#DarkKhaki] wsgi.py
+***[#DarkKhaki] Frontend-Build
+****[#DarkKhaki] static
+*****[#DarkKhaki] css
+*****[#DarkKhaki] js
+*****[#DarkKhaki] media
+*****[#DarkKhaki] assests-manifest.json
+*****[#DarkKhaki] favicon.ico 
+*****[#DarkKhaki] index.html 
+*****[#DarkKhaki] manifest.json
+*****[#DarkKhaki] robots.txt
+***[#BlanchedAlmond] blogApp
+****[#Coral] Models
+****[#Coral] Views
+****[#Coral] admin 
+****[#Coral] urls 
+*****[#Gainsboro] restListView
+
+**[#Green] React
+@endmindmap
